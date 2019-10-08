@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/work_of_STI/Control/reg_exp/regExpress.c
+regExpress.h
+D:/work_of_STI/Control/reg_exp/regExpress.h
+
+D:/work_of_STI/Control/reg_exp/regExpress.h
+stdbool.h
+-
+stdio.h
+D:/work_of_STI/Control/reg_exp/stdio.h
+string.h
+D:/work_of_STI/Control/reg_exp/string.h
+malloc.h
+D:/work_of_STI/Control/reg_exp/malloc.h
+stdlib.h
+D:/work_of_STI/Control/reg_exp/stdlib.h
+
